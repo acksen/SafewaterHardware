@@ -57,13 +57,13 @@ The available documentation is:
 - [Wiring and Troubleshooting](./docs/wiring_and_troubleshooting).  This is available in PDF format only at present.
 - [Wiring Diagrams in English and Spanish](./docs/wiring_diagrams).  These are available in Corel Draw (.cdr) format, with PDF exports available.
 
-- [Datasheets](./datasheets)
-
 Selection of Manufacturer Datasheets for parts used in the Safewater Controller.
 
-- [Specifications](./specifications)
+- [Datasheets](./datasheets)
 
 The available Specification documentation is:
+- [Specifications](./specifications)
+
 - [Microcontroller Connectivity](./specifications/microcontroller_connectivity).  This lists the microcontroller pin allocations for the ATMega328P 32-pin TQFP part used in the controller.  This is written using Microsoft Excel, with PDF export available.
 
 Please note that other specifications include operating flowcharts are available in the Firmware repository. (https://www.github.com/acksen/SafewaterFirmware)
